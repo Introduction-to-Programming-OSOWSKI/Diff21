@@ -1,17 +1,31 @@
-# **Assignment Title**  
+# **Diff21**  
 
 ## **Assignment Description**  
-
+Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21. The method should be called diff21.
 
 ## **Examples**  
->
+>diff21(19)
+2
+
+>diff21(10)
+11
+
+>diff21(21)
+0
+
+>diff21(31)
+20
 
 ## **Limitations**  
+1 method  
+1 if  
+1 else
 
 ## **Hints**  
+Use parenthesis for order of operations.
 
 ## **Concepts**  
-
+Methods, Operators, int, if/else
 
 ---
 

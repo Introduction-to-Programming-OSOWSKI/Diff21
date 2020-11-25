@@ -1,19 +1,20 @@
 # **Diff21**  
 
 ## **Assignment Description**  
-Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21. The method should be called diff21.
+
+Create a method called diff21() that returns the absolute difference between a given int n and 21, expect return double the absolute difference between n and 21 if n is greater than 21.
 
 ## **Examples**  
->diff21(19)
+>diff21(19)  
 2
 
->diff21(10)
+>diff21(10)  
 11
 
->diff21(21)
+>diff21(21)  
 0
 
->diff21(31)
+>diff21(31)  
 20
 
 ## **Limitations**  
@@ -22,10 +23,11 @@ Given an int n, return the absolute difference between n and 21, except return d
 1 else
 
 ## **Hints**  
-Use parenthesis for order of operations.
+Use parenthesis for order of operations.  
+Use Math.abs(num) to return the absolute value of num.
 
 ## **Concepts**  
-Methods, Operators, int, if/else
+Methods, Operators, int, if/else, Math
 
 ---
 
